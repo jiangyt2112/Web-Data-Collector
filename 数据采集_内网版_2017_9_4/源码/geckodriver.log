@@ -1,0 +1,88 @@
+1502189570077	geckodriver	INFO	Listening on 127.0.0.1:57907
+1502189572094	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.IBnRbptAJvRQ
+1502189572096	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1502189572098	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57913
+1502189573308	Marionette	INFO	Listening on port 57913
+1502189576056	Marionette	INFO	startBrowser d38ecefd-993c-4771-ba10-62c23ad8b012
+1502189576063	Marionette	INFO	sendAsync d38ecefd-993c-4771-ba10-62c23ad8b012
+1502189683560	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+rionette	INFO	sendAsync e3a60963-a8e7-4300-9ee9-a8b21abea3a5
+1502184022541	Marionette	INFO	sendAsync e3a60963-a8e7-4300-9ee9-a8b21abea3a5
+1502184751264	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+totype.{search,match,replace} is deprecated
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://tags.bkrtx.com/js/bk-coretag.js, line 5: flags argument of String.prototype.{search,match,replace} is deprecated
+1502182758375	Marionette	INFO	sendAsync 352c7e13-57ce-4428-b7e5-661879a6d505
+1502182758380	Marionette	INFO	sendAsync 352c7e13-57ce-4428-b7e5-661879a6d505
+ding via XHR, status: 0, reason: error
+Ž¥ã€‚" } }', C:\bot\slave\stable-dist-rustc-win-gnu-64\build\src\libcore\result.rs:837
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+e 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null
+JavaScript error: http://www.wkepu.com/, line 723: TypeError: $(...).offset(...) is null

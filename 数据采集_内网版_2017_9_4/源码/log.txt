@@ -1,0 +1,8 @@
+2017-07-05 16:47:17,605 - log.py[line:22] - INFO - aaa
+2017-07-05 16:47:17,605 - log.py[line:23] - ERROR - bbb
+2017-08-08 18:58:28,371 - save.py[line:21] - ERROR - list index out of range
+2017-08-08 18:58:28,371 - save.py[line:21] - ERROR - list index out of range
+2017-08-08 18:59:10,255 - save.py[line:21] - ERROR - list index out of range
+2017-08-08 18:59:10,255 - save.py[line:21] - ERROR - list index out of range
+2017-08-08 19:00:07,516 - save.py[line:21] - ERROR - list index out of range
+2017-08-08 19:00:07,516 - save.py[line:21] - ERROR - list index out of range
